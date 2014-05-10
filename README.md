@@ -4,7 +4,7 @@ Thanks for joining us this week. We've never offered a 4-day intensive short cou
 
 Below, you'll find the schedule of topics, with links to the pages for each topic. As we explore programming together, some topics may change in response to audience interests.
 
-If for some reason, you haven't, please [install the needed software](https://github.com/wrightaprilm/BioComputing2014/blob/master/install.md)
+If, for some reason, you haven't please [install the needed software](hhttps://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/install.md)
 
 
 |Time| Topic | Other Info | 
