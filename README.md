@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Welcome to the first Intro to Python short course offered by the CCBB
 
 Thanks for joining us this week. We've never offered a 4-day intensive short course like this, but we're very excited to experiment with this format.
@@ -24,3 +25,9 @@ If for some reason, you haven't, please [install the needed software](https://gi
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+=======
+ccbb_pythonspring2014
+=====================
+
+Materials for spring big data summer school
+>>>>>>> 37baf6ff1562240b67ea702217d229775f6cab0a
