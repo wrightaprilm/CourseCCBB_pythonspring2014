@@ -18,6 +18,7 @@ The first three observations are fairly simple, and we should be able to test th
 ##Some helpful methods for testing
 
 | Name | Example | Plain English |
+|-------|--------|---------------|
 | .isdigit() | my_string.isdigit() | Looks at a user-provided string and determines if it is a number |
 | .isalpha() | my_string.is_alpha() | Looks at a user-provided string and decides if it is a letter |
 | int() and float() | int(my_number) or float(my_number) | Changes the type of a number string to an integer or float | 
