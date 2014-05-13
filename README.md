@@ -11,10 +11,10 @@ If, for some reason, you haven't please [install the needed software](hhttps://g
 |-----|-----|-----|
 |May 19, 1:30-2	| [Intro](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/intro.md), expectations, goals and supplemental resources	||	
 |May 19, 2-2:45	| [BASH and Git basics](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/basics.md) | |	
-|May 19, 3:15-3:15 | [Python I](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/python1.md): Variables, mathematics, types and [Testing I](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/testing.md) | |
+|May 19, 3:15-3:15 | [Python I](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/python1.md): Variables, mathematics, types and [Testing I](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/testing.md) | Cheatsheet [Day 1](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/cheatsheet_day1.md)|
 |May 19, 3:15-4:30 | [Python II](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/python2.md): Control flow and recap	| [Homework](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/homeworkmay19.md)|
 |May 20, 1:30-2	| Recap of exercises | |
-|May 20, 2-3 | Reading and parsing input I ||
+|May 20, 2-3 | [Reading and parsing input I](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/python3.md) |Code [speed ups](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/speed_ups.md), Cheatsheet [day 2](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/cheatsheet_day2.md) |
 |May 20, 3:15-4 | Error handling, functions ||
 |May 21, 1:30-3 | Pandas I: Data exploration, slicing and subsetting | |
 |May 21, 3-4 | Pandas II: Plotting | |
