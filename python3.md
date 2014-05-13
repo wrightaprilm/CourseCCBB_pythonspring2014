@@ -35,8 +35,8 @@ Let's liberate this data so we can do useful and fun things with it.
 
 ```python
 >>> line_list = []
->>> for lin in location:
-...     line_list.append((lin).strip().split(','))
+>>> for line in f:
+...     line_list.append((line).strip().split(','))
 ['Site', 'Observations', 'Species', 'Expenditure']
 ['Lake_Creek', '4', '12', '180']
 ['Los_Alamos', '8', '5', '340']
