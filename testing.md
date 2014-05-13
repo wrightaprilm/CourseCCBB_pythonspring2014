@@ -2,7 +2,7 @@
 
 No one wants to end up having their paper retracted.
 
-Over the course of the week, we're going to integrate testing into our exercises and homeworks. Testing, like programming itself, is a skill. Testing involves aking the self-critical questions about the pipeline you're building: What *must* be true of my input for my script to work and return acceptable results? What *must* be true about my output for further analysis, or for my science to make sense?
+Over the course of the week, we're going to integrate testing into our exercises and homeworks. Testing, like programming itself, is a skill. Testing involves asking the self-critical questions about the pipeline you're building: What *must* be true of my input for my script to work and return acceptable results? What *must* be true about my output for further analysis, or for my science to make sense?
 
 For example, I am collecting records of how many species I saw at a site per day for a week, and I'm going to use that to calculate a species richness value for each site. Species richness is just the number of species in some defined area.
 
