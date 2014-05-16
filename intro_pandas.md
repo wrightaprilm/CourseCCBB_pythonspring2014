@@ -17,7 +17,7 @@ When we use a library that we downloaded from the internet, it is not part of Py
 Now we're going to take our spreadsheet and use Pandas to import it.
 
 ```python
->>> xl = pandas.ExcelFile('sites_simple.xls')
+>>> xl = pandas.ExcelFile('sites_simple.xlsx')
 >>> xl
 <pandas.io.parsers.ExcelFile object at 0x102a39610>
 ```
