@@ -6,7 +6,7 @@ Below, you'll find the schedule of topics, with links to the pages for each topi
 
 If, for some reason, you haven't please [install the needed software](hhttps://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/install.md)
 
-##Location: NHB 6.202 (South Tower of the NHB complex)
+##Location: GDC 6.202 (South Tower of the Gates-Dell Complex)
 
 |Time| Topic | Other Info | 
 |-----|-----|-----|
