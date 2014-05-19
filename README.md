@@ -8,6 +8,8 @@ If, for some reason, you haven't please [install the needed software](hhttps://g
 
 ##Location: GDC 6.202 (South Tower of the Gates-Dell Complex)
 
+[Etherpad](https://etherpad.mozilla.org/H7ATPfwhrE): For chat + questions
+
 |Time| Topic | Other Info | 
 |-----|-----|-----|
 |May 19, 1:30-2	| [Intro](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/intro.md), expectations, goals and supplemental resources	||	
