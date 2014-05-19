@@ -60,6 +60,10 @@ For example:
 
 In this case, action is print, and that action is done for each letter in my list. "letter" is a loop variable, a unit of our list. If we use the syntax "for ... in list", python will automatically interpret the name between _for_ and _in_ as a variable.
 
+Also, see those three dots before "print letter?" The python interpretted automatically includes those dots to help visualize the structure of your for loop. Don't type these three dots yourself, or python will get confused.
+
+
+
 Just printing things to the screen isn't very helpful. We may want to look for a specific letter in my name - that is, we may want to filter our lists by some criterion.
 
 ```python
