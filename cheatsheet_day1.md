@@ -91,11 +91,11 @@ aren’t always that helpful, though.
 
 ## For Loops
 Control the flow of your programs by iterating a command over a collection of objects. Syntax:
-for item in collection:
 
 ```python
-do something with item
-do something else
+for item in collection:
+    do something with item
+    do something else
 ```
 
 “item” is automatically created as a variable by the loop, you don’t have to declare it
@@ -107,7 +107,7 @@ good for some things, which we may get to later. Syntax:
 
 ```python
 while condition:
-do something
+    do something
 ```
 
 Note that if condition is always True, the loop goes on forever – not always a
@@ -141,6 +141,14 @@ exclusive. So the stopping number is the first position which is not included in
 >>> string1[0:2]
 ‘Be’
 ```
+
+You can use negative numbers as indices. Negative numbers will start indexing from the end of your string, instead of the beginning. Basically, counting goes from right to left.
+```python
+>>> string1[-1]
+‘n’
+```
+
+
 
 ## List and string occupancy
 Python can check to see if characters or objects are in lists and strings. It will return a Boolean type.
