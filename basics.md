@@ -82,7 +82,7 @@ Now that git knows who we are, we can fork the class repository in a webbrowser.
 git clone https://github.com/your_username/ccbb_pythonspring2014.git
 ```
 
-This will start a new repository on your local machine. This should only be used once per project, and git repositories should not be nested within each other. Let's see the status of our repository:
+This will start a new repository on your local machine. This should only be used once per project, and git repositories should not be nested within each other. Let's see the status of our repository. First change directories into your cloned repository:
 
 ```UNIX
 $ git status
