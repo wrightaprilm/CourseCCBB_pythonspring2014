@@ -1,5 +1,6 @@
 ##Solution May 20
 
+```python
 def function_one():
 	f=open("sites_simple.csv",'r')
 	return(f)
@@ -19,3 +20,4 @@ def function_three():
 
 function_three()
 
+```
