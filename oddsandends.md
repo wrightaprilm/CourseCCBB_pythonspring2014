@@ -23,6 +23,18 @@ export PATH="/home/april/scripts:$PATH"
 
 This allows me to execute my scripts from the scripts folder from anywhere on my computer. 
 
+##Scripts as modules
+
+```python
+
+if __name__ == '__main__':
+    get_files()
+
+```
+
+This line looks kind of weird. What it enables is a script to be loaded as a module. If, now I got to ipython, or include an import statement in a script, I can access the functionality of my get_files function. See the script file_load.py for an example.
+
+
 ##Interesting Modules for Biologists
 
 ###Sci-Kit Bio
