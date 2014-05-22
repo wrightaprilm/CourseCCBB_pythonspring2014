@@ -24,7 +24,7 @@ If, for some reason, you haven't please [install the needed software](hhttps://g
 |May 21, 4:15-4:30 | Brief discussion on scripting | [Homework](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/homeworkmay21.md), [Plotting script](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/plot.py) |
 |May 22, 1:30-2 |  Recap of exercises	| |	
 |May 22, 2-3 | [Regular Expressions](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/regex.md) | Sequence [file](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/sequences.txt) |
-|May 22, 3-4:30 | [Grab Bag](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/oddsandends.md) | Loading scripts as modules, Python path|
+|May 22, 3-4:30 | [Grab Bag](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/oddsandends.md) | Example [script](https://github.com/wrightaprilm/ccbb_pythonspring2014/blob/master/file_load.py) |
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
