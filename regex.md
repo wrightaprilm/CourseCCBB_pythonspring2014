@@ -83,3 +83,35 @@ Exercise:
 
 Create a script that does a regex of your choice on a string of your choice.
 If you get this working: think about some of the challenges presented by performing this on a file. How can we import a file and still have the strings we need to do regex?
+
+## Files
+
+We can read in our file as one long line:
+
+```python 
+
+reg = re.compile('>gi', re.IGNORECASE)
+#any guesses about what compile does?
+
+f = open('sequences.txt', 'r')
+
+found_list = re.findall(reg, f.read())
+#What happens if we do this twice?
+
+f.seek(0)
+#We need to return to the top of the file.
+
+```
+
+We can also do this in a line-by-line fashion:
+
+```python
+
+with open("sequences.txt", 'r') as f:
+    for line in f:
+        if re.search(reg,line):
+            print line
+```
+
+
+
